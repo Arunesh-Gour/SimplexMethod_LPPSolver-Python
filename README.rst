@@ -56,7 +56,8 @@ Follows ``PEP 8`` guidelines.
 
 Credits
 =======
-*  :File: `src/simplex <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/blob/main/src/simplex>`_.
+*  :File: `src/SimplexMethodLPPSolver/simplex
+          <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/blob/main/src/SimplexMethodLPPSolver/simplex>`_.
    :Owner: `CXINFINITE <https://github.com/CXINFINITE>`_.
    :Repository: `Algorithms-Python
                 <https://github.com/CXINFINITE/Algorithms-Python/blob/main/src/Math/LPP/simplex>`_.
