@@ -33,21 +33,21 @@ Built with
 
 *  Python==3.x
 *  NumPy
-*  `Simplex <https://github.com/CXINFINITE/Algorithms-Python/tree/main/src/Math/LPP/simplex>`_ library.
+*  `Simplex <https://github.com/CXINFINITE/Algorithms-Python/blob/main/src/Math/LPP/simplex>`_ library.
 
 Running
 -------
 :``$``: Terminal command.
 
 1. ``cd`` to
-   `src/ <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/src/>`.
+   `src/ <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/blob/main/src/>`_.
 2. $ ``python3 SimplexMethodLPPSolver.py``.
 3. Use in-program interface or press 'Ctrl-C' to quit.
 
 Configuration
 =============
 .. Configurations a user can enter when using the project.
-*  Use editor config provided under `config/ <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/config/`.
+*  Use editor config provided under `config/ <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/blob/main/config/>`_.
 
 Style guide
 ===========
@@ -56,12 +56,12 @@ Follows ``PEP 8`` guidelines.
 
 Credits
 =======
-*  :File: `src/simplex <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/src/simplex>`_.
+*  :File: `src/simplex <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/blob/main/src/simplex>`_.
    :Owner: `CXINFINITE <https://github.com/CXINFINITE>`_.
-   :Repository: `ProjectEssentials-Python
-                <https://github.com/CXINFINITE/Algorithms-Python/src/Math/LPP/simplex>`_.
+   :Repository: `Algorithms-Python
+                <https://github.com/CXINFINITE/Algorithms-Python/blob/main/src/Math/LPP/simplex>`_.
 
 Licensing
 =========
 .. State license and link to text version.
-See `LICENSE <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/LICENSE>`_.
+See `LICENSE <https://github.com/Arunesh-Gour/SimplexMethod_LPPSolver-Python/blob/main/LICENSE>`_.
